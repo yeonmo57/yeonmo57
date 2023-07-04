@@ -19,5 +19,4 @@ Here are some ideas to get you started:
      
 ![yeonmo57's github stats](https://github-readme-stats.vercel.app/api?username=yeonmo57&show_icons=true&theme=tokyonight)
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonmo57&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ymthebest)](https://solved.ac/ymthebest)
